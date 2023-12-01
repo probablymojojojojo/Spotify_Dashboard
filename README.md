@@ -1,7 +1,7 @@
 **Project: Spotify Most Streamed Songs 2023 Analysis**
 
 *Description:*
-Utilized Spotify Web API to extract valuable data from the Most Streamed Songs 2023 dataset sourced from Kaggle. The dataset provided a detailed overview of song attributes, popularity, and cross-platform presence.
+Utilized Spotify Web API to extract album cover URL for the Most Streamed Songs 2023 dataset sourced from Kaggle. The dataset provided a detailed overview of song attributes, popularity, and cross-platform presence.
 
 *Steps:*
 1. **Data Retrieval:** Employed Python's requests and pandas to retrieve album/track cover URLs using Spotify Web API, enhancing the dataset's richness.
